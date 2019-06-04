@@ -25,7 +25,8 @@ commit 262tree a3891e4fee296e7dad43e5b9ab6c98273267dbae
 parent 00000000c50369e51bb9896d2004a3f9aafb041f
 author ziguips <zigui_@naver.com> 1559653404 +0900
 committer ziguips <zigui_@naver.com> 1559653404 +0900
-zigui@zigui-Surface-Book-2:~/githashjoke$ GIT_COMMITTER_DATE="1559653404" git commit --amend -m "add executable                               ENLIGCNNB@@@@@@@"
+
+add executable                               ENLIGCNNB@@@@@@@zigui@zigui-Surface-Book-2:~/githashjoke$ GIT_COMMITTER_DATE="1559653404" git commit --amend -m "add executable                               ENLIGCNNB@@@@@@@"
 [master 000000001] add executable                               ENLIGCNNB@@@@@@@
  Date: Tue Jun 4 22:03:24 2019 +0900
  1 file changed, 0 insertions(+), 0 deletions(-)
